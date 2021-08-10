@@ -1,0 +1,11 @@
+Technologies used in this build are as follow: 
+
+1. React JS
+2. Next JS
+3. Tailwind CSS
+4. Hero Icons
+5. Server Side Rendering (SSR)
+6. Vercel (For Deployment)
+7. TMDB API KEY
+
+Live Website Link: https://hulu-clone-jitendra3018.vercel.app/
